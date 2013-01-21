@@ -24,7 +24,7 @@
                 <h5 id="Forgot_password">
                     Forgot Pasword
                 </h5>
-		<a data-role="button" data-theme="e" href="index.html" data-icon="home" data-iconpos="left" class="ui-btn-left">
+		<a data-role="button" data-theme="e" href="home.html" data-icon="home" data-iconpos="left" class="ui-btn-left">
                     Home
                 </a>
             </div>
@@ -37,7 +37,7 @@
                         <input name="" id="email" placeholder="" value="" type="email" />
                     </fieldset>
                 </div>
-		<a id="send_password" data-role="button" type="submit" data-theme="e" href="index.html" > SEND </a>
+		<a id="send_password" data-role="button" type="submit" data-theme="e" href="home.html" > SEND </a>
                 
             </div>
         </div>
