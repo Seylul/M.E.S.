@@ -3,7 +3,7 @@ $("#Login_login").click( function() {
     $("div#ack").html("Please enter both username and password");
   else
   var dataString = 'email='+ $("#Email_register").val() + '&password=' + $("#password_register").val();
-	alert(dataString);
+	
     $.post( $("#myForm").attr("action"),
 	        dataString,
 			function(data) {
