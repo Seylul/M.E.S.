@@ -6,6 +6,7 @@ $("#Login_login").click( function() {
     $.post( $("#myForm").attr("action"),
 	        dataString,
 			function(data) {
+			  alert("Sending..");
 			  if( data == "1"){
 				location.href = "home2.html";
 			  }
