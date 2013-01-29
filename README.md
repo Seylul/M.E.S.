@@ -1,4 +1,5 @@
 M.E.S.
 ======
 
-Google map api ile bir proje
+This project is done with Google Map-api and Jquery Mobile.
+You can see the real project this [link](mes.pagodabox.com).

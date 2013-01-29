@@ -33,18 +33,18 @@
                     <div class="ui-block-a"><a href="app.html" target="_blank">
                         <input id="Calculate" type="submit" data-theme="e" data-icon="star" data-iconpos="left" value="Calculate"  />
                     </div>
-                    <div class="ui-block-b"><a href="interest.html">
+                    <div class="ui-block-b">
 <input id="Interest" type="submit" data-theme="e" data-icon="star" data-iconpos="right" value="Interesting Places"/>
                     </div>
                    
-                    <div class="ui-block-a"><a href="about.html">
+                    <div class="ui-block-a">
                     <input id="About" type="submit" data-theme="e" data-icon="info" data-iconpos="left" value="About"/>
     
                     </div>
                     <div class="ui-block-b"><a href="help.html">
 <input id="Help" type="submit" data-theme="e" data-icon="alert" data-iconpos="right" value="Help"/>
                     </div>
-                    <div class="ui-block-a">
+                    <div class="ui-block-a"><a href="about.html">
 
                     </div>
                     <div class="ui-block-b">
