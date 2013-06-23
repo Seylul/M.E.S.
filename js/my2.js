@@ -99,7 +99,7 @@ function createMarker(place) {
 				infowindow.setContent(place.name + "<br>" + "<img src=" + place.photos[0].raw_reference.fife_url +" width=200 height=200>");
 			}
 			else{
-				infowindow.setContent(place.name);
+				infowindow.setContent(place.name); 
 			}
 			infowindow.open(map, this);
         });
